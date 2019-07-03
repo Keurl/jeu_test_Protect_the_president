@@ -1,0 +1,1 @@
+var CodeMR_ProjectMetrics = {"Project Name":"Protect the President_heritage_20+", "Number of Highly Problematic Classes":0, "Number of Entities":50, "Number of Problematic Classes":13, "Class Lines of Code":1030, "Number of External Packages":23, "Number of Packages":8, "Number of External Entities":137}

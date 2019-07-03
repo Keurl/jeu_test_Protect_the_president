@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/romain/Téléchargements/chappie-a44fed1084175ac0702c48a7b29c0c4c265b5f28/chappie.jar" sourcepath="/home/romain/Téléchargements/chappie-a44fed1084175ac0702c48a7b29c0c4c265b5f28/vendor"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
